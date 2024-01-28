@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**ShieldVP/ShieldVP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Yury Batrakov, I am Data Scientist and very enthusiastic about ML stuff.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on video classification tasks in Avito automated moderation team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+
+<a href="https://t.me/BatrakovYury"><img align="left" height=20 width=20 src="https://pngicon.ru/file/uploads/telegram.png" /></a>
+
+<a href="https://vk.com/BatrakovYury"><img align="left" height=20 width=20 src="https://cdn-icons-png.flaticon.com/512/5968/5968835.png" /></a>
+
+<a href="https://www.linkedin.com/in/yury-batrakov/"><img align="left" height=20 width=20 src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" /></a>
+
+<a href="https://www.kaggle.com/cosdar"><img align="left" height=20 width=20 src="https://img.icons8.com/?size=512&id=Omk4fWoSmCHm&format=png" /></a>
+
+<a href="mailto:batrakov.iua@phystech.edu"><img align="left" height=20 width=20 src="https://cdn-icons-png.flaticon.com/512/2965/2965306.png" /></a>
+
+<a href="https://batrakov.ai"><img align="left" height=20 width=20 src="https://cdn-icons-png.flaticon.com/512/12081/12081069.png" /></a>
